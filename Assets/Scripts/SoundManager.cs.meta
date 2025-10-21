@@ -1,0 +1,25 @@
+fileFormatVersion: 2
+guid: 37824e8c7e516fa4290b635af9682b27
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - bgAlleyWhiteNoise: {fileID: 8300000, guid: d3374b7051051b94990c698cad03f828, type: 3}
+  - bgTitle: {fileID: 8300000, guid: 055262b370b470443b763c845a2409c3, type: 3}
+  - bgLevel: {fileID: 8300000, guid: c592a4ea821273040a0271bff46093be, type: 3}
+  - playerBoiling: {fileID: 8300000, guid: 58076563ba6291c428d4f8b5cb3255b9, type: 3}
+  - playerCutting: {fileID: 8300000, guid: 41b8289f61675184187334838e1da8ef, type: 3}
+  - playerFrying: {fileID: 8300000, guid: 002236a934f6fba4ebd41a9018c3f66e, type: 3}
+  - playerServingDish: {fileID: 8300000, guid: ecf359d8165490f4da957a9b141ba03f, type: 3}
+  - playerSettingDish: {fileID: 8300000, guid: 4b9a9b4843461394b802f19dec3d4812, type: 3}
+  - playerTakingIngredients: {fileID: 8300000, guid: a96e7f3d198867047bd4ef145b8a09a4, type: 3}
+  - playerTakingPlate: {fileID: 8300000, guid: 310618aac104a7a41903c9a576ae89c4, type: 3}
+  - playerThrowingInTrash: {fileID: 8300000, guid: e37ca4c6fb7f1e8469cd3911544a6942, type: 3}
+  - playerCutOnce: {fileID: 8300000, guid: d160423f91efb764d983706ef52090d7, type: 3}
+  - orderAppearing: {fileID: 8300000, guid: 53c1da53df406874f8fc6d31e1aa3430, type: 3}
+  - orderDisappearing: {fileID: 8300000, guid: faec8bc349db8fb4ab4b770ca984e69e, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
